@@ -1,6 +1,6 @@
 To add the lambda functions to lamba create use the followings steps: 
 
-- Prepare the zip.zip file. 
+- Prepare the functions.zip file. 
 - Start up a new s3 with a new bucket
 - Upload the zip to the bucket
 - Get file Path 
